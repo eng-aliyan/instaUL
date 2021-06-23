@@ -1,0 +1,113 @@
+1624394030862	geckodriver	INFO	Listening on 127.0.0.1:54221
+1624394030870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehjg3NV"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1624394032723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehjg3NV/search.json.mozlz4", (void 0)))
+1624394036263	Marionette	INFO	Listening on port 36591
+1624394036419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1624435273359	geckodriver	INFO	Listening on 127.0.0.1:41367
+1624435274285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCpLeEM"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1624435276438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCpLeEM/search.json.mozlz4", (void 0)))
+1624435280966	Marionette	INFO	Listening on port 38139
+1624435281125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1624435531718	Marionette	INFO	Stopped listening on port 38139
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624435615288	geckodriver	INFO	Listening on 127.0.0.1:55613
+1624435615293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQPEkJp"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1624435617308	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQPEkJp/search.json.mozlz4", (void 0)))
+1624435621021	Marionette	INFO	Listening on port 44121
+1624435621125	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1624435825541	Marionette	INFO	Stopped listening on port 44121
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624435836603	geckodriver	INFO	Listening on 127.0.0.1:52057
+1624435836614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileylLg4j"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1624435838530	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileylLg4j/search.json.mozlz4", (void 0)))
+1624435842259	Marionette	INFO	Listening on port 43649
+1624435842347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1624435872679	geckodriver	INFO	Listening on 127.0.0.1:52631
+1624435872684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVmVPDQ"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1624435874810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVmVPDQ/search.json.mozlz4", (void 0)))
+1624435878663	Marionette	INFO	Listening on port 46635
+1624435878733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1624435895306	Marionette	INFO	Stopped listening on port 46635
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624435896423	geckodriver	INFO	Listening on 127.0.0.1:58391
+1624435896428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMUQ8cA"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1624435898374	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMUQ8cA/search.json.mozlz4", (void 0)))
+1624435901919	Marionette	INFO	Listening on port 36585
+1624435901962	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1624435915688	Marionette	INFO	Stopped listening on port 36585
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624435936423	geckodriver	INFO	Listening on 127.0.0.1:44325
+1624435936428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem5gAKQ"
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+1624435938518	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilem5gAKQ/search.json.mozlz4", (void 0)))
+1624435942046	Marionette	INFO	Listening on port 39963
+1624435942160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1624435980304	Marionette	INFO	Stopped listening on port 43649
